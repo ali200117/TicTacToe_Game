@@ -6,7 +6,3 @@ public class Main {
         TicTacToe tictactoe = new TicTacToe();
     }
 }
-
-//Board hvordan det skal se ut
-//spillere
-//logikk/spillet
